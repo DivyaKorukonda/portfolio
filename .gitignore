@@ -1,0 +1,10 @@
+# Ignore node_modules or other unnecessary files
+node_modules/
+.env
+.DS_Store
+*.log
+*.bak
+.vscode/
+.idea/
+Dockerfile
+node_modules
